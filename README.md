@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle bug in Lua programming related to the implicit treatment of 'nil' values in arithmetic operations.  The bug showcases how 'nil' is silently treated as 0, leading to incorrect calculations if not explicitly handled. The solution demonstrates best practices to avoid this pitfall.
